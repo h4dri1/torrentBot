@@ -1,0 +1,5 @@
+node_modules
+.env
+matrix-sdk-crypto
+bot-sdk.json
+hello-bot.json
